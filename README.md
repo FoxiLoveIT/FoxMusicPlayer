@@ -1,11 +1,12 @@
 # FoxMusicPlayer
 
-I created my first desktop application in c# and .net framework. this was my first experience building a desktop app from start to finish. 
-When I created this application, I relied on documentation windows and some pages on Stack Overflow. This app is its beta test. 
-This app does not have many of the features that I want. I am creating a lot of updates for this application.
+I created my first desktop application using c# and .net framework. this was my first experience building a desktop app from scratch. 
+Please notice that the app can have some bugs. 
+The app is simple and I didn't yet implement many of the features I wanted to implement.
+I plan to update the app in at least nearest future bringing new features.
 
 <div style="text-align: center;">
   <img src="AppView.jpg" alt="image">
 </div>
 
-if you have some idea for this app you can write my on my email bzachepa@gmail.com or linkedin https://www.linkedin.com/in/bogdan-zachepa-831813a7/
+If you have some ideas or feedback, please feel free to email me:  bzachepa@gmail.com or linkedin https://www.linkedin.com/in/bogdan-zachepa-831813a7/
