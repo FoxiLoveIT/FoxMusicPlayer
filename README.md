@@ -7,7 +7,4 @@ This app does not have many of the features that I want. I am creating a lot of 
 <div style="text-align: center;">
   <img src="AppView.jpg" alt="image">
 </div>
-![Image alt](https://github.com/FoxiLoveIT/FoxMusicPlayer/raw/master/AppView.jpg)
-
-
 if you have some idea for this app you can write my on my email bzachepa@gmail.com or linkedin https://www.linkedin.com/in/bogdan-zachepa-831813a7/
